@@ -1,4 +1,4 @@
-ComS 227
+COMS 227 - Object-Oriented Programming
 
 Class Takeaways:
 -Write, debug, and document well-structured Java applications of up to 500 lines
