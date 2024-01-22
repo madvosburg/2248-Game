@@ -1,3 +1,5 @@
+ComS 227
+
 Class Takeaways:
 -Write, debug, and document well-structured Java applications of up to 500 lines
 -Implement Java classes from specifications
